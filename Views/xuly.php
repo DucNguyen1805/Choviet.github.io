@@ -1,0 +1,1 @@
+<?php include_once "./Views/trang/".$data["page1"].".php" ?>
